@@ -18,7 +18,7 @@ import io.openems.common.OpenemsConstants;
 
 @Component(immediate = true)
 public class BackendApp {
-//github testing with 1 error
+//Ok let's test if its work
 	private final Logger log = LoggerFactory.getLogger(BackendApp.class);
 
 	@Reference
