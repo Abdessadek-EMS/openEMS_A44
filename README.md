@@ -8,7 +8,7 @@
   <br/>Open Source Energy Management System
 </h1>
 
-DiskoEMS - the Open Source Energy Management System - is a modular platform for energy management applications. It was developed around the requirements of monitoring, controlling, and integrating energy storage together with renewable energy sources and complementary devices and services like electric vehicle charging stations, heat-pumps, electrolysers, time-of-use electricity tariffs and more.
+DiskoEMS - the abdo Source Energy Management System - is a modular platform for energy management applications. It was developed around the requirements of monitoring, controlling, and integrating energy storage together with renewable energy sources and complementary devices and services like electric vehicle charging stations, heat-pumps, electrolysers, time-of-use electricity tariffs and more.
 
 If you plan to use OpenEMS for your own projects, please consider joining the [OpenEMS Association e.V.](https://openems.io/association), a network of universities, hardware manufacturers, software companies as well as commercial and private owners, and get in touch in the [OpenEMS Community forum](https://community.openems.io). 
 
@@ -79,13 +79,14 @@ If you use OpenEMS in your scientific research, please use our Zenodo Digital Ob
 
 * OpenEMS Edge 
 * OpenEMS Backend
+* sparkems AI
 
 Copyright (C) 2016-2022 OpenEMS Association e.V.
 
 This product includes software developed at FENECON GmbH: you can
 redistribute it and/or modify it under the terms of the [Eclipse Public License version 2.0](LICENSE-EPL-2.0). 
 
- * OpenEMS UI
+ * DiskoEMS UI
 
 Copyright (C) 2016-2022 OpenEMS Association e.V.
 
