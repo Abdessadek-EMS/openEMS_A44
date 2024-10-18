@@ -1,11 +1,11 @@
 import { Theme } from "src/environments";
 
 export const theme = {
-    theme: "OpenEMS" as Theme,
+    theme: "ABDOEMS" as Theme,
 
-    uiTitle: "OpenEMS UI",
-    edgeShortName: "OpenEMS",
-    edgeLongName: "Open Energy Management System",
+    uiTitle: "AbdoEMS UI",
+    edgeShortName: "AbdoEMS",
+    edgeLongName: "Abdo Energy Management System",
 
     docsUrlPrefix: "https://github.com/OpenEMS/openems/blob/develop/",
     links: {
