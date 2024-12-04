@@ -31,3 +31,4 @@ VOLUME /var/opt/openems/config
 VOLUME /var/opt/openems/data
 
 EXPOSE 8079 8081 8082
+ENTRYPOINT ["java", "-Dfelix.webconsole.password=meingeheimespasswort", "-jar", "openems.jar"]
